@@ -5,7 +5,7 @@
       "title": "customer-churn-prediction",
       "tagline": "Python",
       "description": "Modern web application demonstrating clean code principles",
-      "coverUrl": "",
+      "coverUrl": "assets/images/covers/customer-churn-prediction.jpg",
       "stack": [
         "Python"
       ],
@@ -17,7 +17,7 @@
       "title": "uber-expenses-tracking",
       "tagline": "Jupyter Notebook · Python · HTML",
       "description": "Educational project for mastering software architecture",
-      "coverUrl": "",
+      "coverUrl": "assets/images/covers/uber-expenses-tracking.jpg",
       "stack": [
         "Jupyter Notebook",
         "Python",
@@ -31,7 +31,7 @@
       "title": "ibm-hr-analytics-employee-attrition-and-performance-prediction",
       "tagline": "Jupyter Notebook",
       "description": "Portfolio project showcasing development capabilities",
-      "coverUrl": "",
+      "coverUrl": "assets/images/covers/ibm-hr-analytics.jpg",
       "stack": [
         "Jupyter Notebook"
       ],
@@ -43,7 +43,7 @@
       "title": "sql-datawarehouse-project",
       "tagline": "TSQL",
       "description": "Practice repository for exploring advanced features",
-      "coverUrl": "",
+      "coverUrl": "assets/images/covers/sql-datawarehouse-project.jpg",
       "stack": [
         "TSQL"
       ],
@@ -55,7 +55,7 @@
       "title": "agentops-sentinel",
       "tagline": "Python · HTML · Dockerfile",
       "description": "Personal development project using industry best practices",
-      "coverUrl": "",
+      "coverUrl": "assets/images/covers/agentops-sentinel.jpg",
       "stack": [
         "Python",
         "HTML",
@@ -69,7 +69,7 @@
       "title": "contextforge",
       "tagline": "TypeScript · JavaScript · Dockerfile",
       "description": "Modern web application demonstrating clean code principles",
-      "coverUrl": "",
+      "coverUrl": "assets/images/covers/contextforge.jpg",
       "stack": [
         "TypeScript",
         "JavaScript",

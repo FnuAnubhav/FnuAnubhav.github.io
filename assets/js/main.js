@@ -177,6 +177,12 @@ function companyInitials(name) {
 
 function companyMarkHTML(e) {
   const initials = companyInitials(e.company);
+  if (e.logoUrl) {
+    return `<div class="company-logo grid h-10 w-10 shrink-0 place-items-center overflow-hidden rounded-md hairline bg-white" data-initials="${initials}">
+      <img src="${e.logoUrl}" alt="${e.company} logo"
+           class="h-full w-full object-contain p-1.5" />
+    </div>`;
+  }
   if (e.logoDomain) {
     return `<div class="company-logo grid h-10 w-10 shrink-0 place-items-center overflow-hidden rounded-md hairline bg-white" data-initials="${initials}">
       <img src="https://logo.clearbit.com/${e.logoDomain}?size=80" alt="${e.company} logo"
