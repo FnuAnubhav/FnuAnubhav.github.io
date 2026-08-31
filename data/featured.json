@@ -1,0 +1,84 @@
+{
+  "sectionTitle": "Featured Projects",
+  "items": [
+    {
+      "title": "customer-churn-prediction",
+      "tagline": "Python",
+      "description": "Modern web application demonstrating clean code principles",
+      "coverUrl": "",
+      "stack": [
+        "Python"
+      ],
+      "repo": "https://github.com/FnuAnubhav/customer-churn-prediction",
+      "demo": "",
+      "accent": "violet"
+    },
+    {
+      "title": "uber-expenses-tracking",
+      "tagline": "Jupyter Notebook · Python · HTML",
+      "description": "Educational project for mastering software architecture",
+      "coverUrl": "",
+      "stack": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "repo": "https://github.com/FnuAnubhav/uber-expenses-tracking",
+      "demo": "",
+      "accent": "cyan"
+    },
+    {
+      "title": "ibm-hr-analytics-employee-attrition-and-performance-prediction",
+      "tagline": "Jupyter Notebook",
+      "description": "Portfolio project showcasing development capabilities",
+      "coverUrl": "",
+      "stack": [
+        "Jupyter Notebook"
+      ],
+      "repo": "https://github.com/FnuAnubhav/ibm-hr-analytics-employee-attrition-and-performance-prediction",
+      "demo": "",
+      "accent": "fuchsia"
+    },
+    {
+      "title": "sql-datawarehouse-project",
+      "tagline": "TSQL",
+      "description": "Practice repository for exploring advanced features",
+      "coverUrl": "",
+      "stack": [
+        "TSQL"
+      ],
+      "repo": "https://github.com/FnuAnubhav/sql-datawarehouse-project",
+      "demo": "",
+      "accent": "violet"
+    },
+    {
+      "title": "agentops-sentinel",
+      "tagline": "Python · HTML · Dockerfile",
+      "description": "Personal development project using industry best practices",
+      "coverUrl": "",
+      "stack": [
+        "Python",
+        "HTML",
+        "Dockerfile"
+      ],
+      "repo": "https://github.com/FnuAnubhav/agentops-sentinel",
+      "demo": "",
+      "accent": "cyan"
+    },
+    {
+      "title": "contextforge",
+      "tagline": "TypeScript · JavaScript · Dockerfile",
+      "description": "Modern web application demonstrating clean code principles",
+      "coverUrl": "",
+      "stack": [
+        "TypeScript",
+        "JavaScript",
+        "Dockerfile",
+        "CSS"
+      ],
+      "repo": "https://github.com/FnuAnubhav/contextforge",
+      "demo": "",
+      "accent": "fuchsia"
+    }
+  ]
+}

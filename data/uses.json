@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "label": "Languages",
+      "value": "SQL, Python, SAP ABAP",
+      "icon": "fas fa-code"
+    },
+    {
+      "label": "Frameworks",
+      "value": "Fiori, HANA",
+      "icon": "fas fa-toolbox"
+    },
+    {
+      "label": "Tools",
+      "value": "Power BI, Excel (Advanced), Microsoft 365 Copilot",
+      "icon": "fas fa-wrench"
+    },
+    {
+      "label": "Focus",
+      "value": "Cross-Functional Delivery, Agile / Scrum",
+      "icon": "fas fa-laptop-code"
+    }
+  ]
+}

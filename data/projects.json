@@ -1,0 +1,216 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "customer-churn-prediction",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/customer-churn-prediction",
+      "demo": "https://github.com/FnuAnubhav/customer-churn-prediction"
+    },
+    {
+      "title": "uber-expenses-tracking",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/FnuAnubhav/uber-expenses-tracking",
+      "demo": "https://github.com/FnuAnubhav/uber-expenses-tracking"
+    },
+    {
+      "title": "ibm-hr-analytics-employee-attrition-and-performance-prediction",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/ibm-hr-analytics-employee-attrition-and-performance-prediction",
+      "demo": "https://github.com/FnuAnubhav/ibm-hr-analytics-employee-attrition-and-performance-prediction"
+    },
+    {
+      "title": "sql-datawarehouse-project",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "TSQL"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/sql-datawarehouse-project",
+      "demo": "https://github.com/FnuAnubhav/sql-datawarehouse-project"
+    },
+    {
+      "title": "agentops-sentinel",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "Python",
+        "HTML",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/FnuAnubhav/agentops-sentinel",
+      "demo": "https://github.com/FnuAnubhav/agentops-sentinel"
+    },
+    {
+      "title": "contextforge",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "TypeScript",
+        "JavaScript",
+        "Dockerfile",
+        "CSS"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/contextforge",
+      "demo": "https://github.com/FnuAnubhav/contextforge"
+    },
+    {
+      "title": "customer-trends-data-analysis-sql-python-powerbi",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/customer-trends-data-analysis-sql-python-powerbi",
+      "demo": "https://github.com/FnuAnubhav/customer-trends-data-analysis-sql-python-powerbi"
+    },
+    {
+      "title": "advanced-rag-llm-app",
+      "description": "Complete solution built from scratch for learning",
+      "technologies": [
+        "Python",
+        "CSS",
+        "JavaScript",
+        "HTML",
+        "Dockerfile",
+        "Makefile"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/FnuAnubhav/advanced-rag-llm-app",
+      "demo": "https://github.com/FnuAnubhav/advanced-rag-llm-app"
+    },
+    {
+      "title": "extracting-structured-data-from-pdfs",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Python",
+        "Jupyter Notebook",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/extracting-structured-data-from-pdfs",
+      "demo": "https://github.com/FnuAnubhav/extracting-structured-data-from-pdfs"
+    },
+    {
+      "title": "rpa-in-python",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/rpa-in-python",
+      "demo": "https://github.com/FnuAnubhav/rpa-in-python"
+    },
+    {
+      "title": "github-repository-intelligence",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "HTML",
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/FnuAnubhav/github-repository-intelligence",
+      "demo": "https://github.com/FnuAnubhav/github-repository-intelligence"
+    },
+    {
+      "title": "retail-margin-cockpit",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "Python",
+        "PLpgSQL",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/retail-margin-cockpit",
+      "demo": "https://github.com/FnuAnubhav/retail-margin-cockpit"
+    },
+    {
+      "title": "supportiq-analytics",
+      "description": "Personal development project using industry best practices",
+      "technologies": [
+        "TypeScript",
+        "Python",
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/FnuAnubhav/supportiq-analytics",
+      "demo": "https://github.com/FnuAnubhav/supportiq-analytics"
+    },
+    {
+      "title": "field-ops-sql-cost-audit",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/field-ops-sql-cost-audit",
+      "demo": "https://github.com/FnuAnubhav/field-ops-sql-cost-audit"
+    },
+    {
+      "title": "yolo-1788215366699",
+      "description": "⚡ YOLO: Merge without review for achievement",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/yolo-1788215366699",
+      "demo": "https://github.com/FnuAnubhav/yolo-1788215366699"
+    },
+    {
+      "title": "financial-insights-in-banking-data-using-powerbi",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/financial-insights-in-banking-data-using-powerbi",
+      "demo": "https://github.com/FnuAnubhav/financial-insights-in-banking-data-using-powerbi"
+    },
+    {
+      "title": "predictive-maintainence-using-data-analysis-and-time-series-forecasting",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/predictive-maintainence-using-data-analysis-and-time-series-forecasting",
+      "demo": "https://github.com/FnuAnubhav/predictive-maintainence-using-data-analysis-and-time-series-forecasting"
+    },
+    {
+      "title": "sales-insights-data-analysis-using-tableau-and-sql",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/sales-insights-data-analysis-using-tableau-and-sql",
+      "demo": "https://github.com/FnuAnubhav/sales-insights-data-analysis-using-tableau-and-sql"
+    },
+    {
+      "title": "call-center-performance-analytics-dashboard",
+      "description": "Practice application demonstrating full-stack development skills",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/call-center-performance-analytics-dashboard",
+      "demo": "https://github.com/FnuAnubhav/call-center-performance-analytics-dashboard"
+    },
+    {
+      "title": "hr-analytics-kpi-dashboard-using-power-bi",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/FnuAnubhav/hr-analytics-kpi-dashboard-using-power-bi",
+      "demo": "https://github.com/FnuAnubhav/hr-analytics-kpi-dashboard-using-power-bi"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Project Management Intern",
+      "company": "University of Texas System, Austin, TX",
+      "period": "June 2026 - Present",
+      "location": "",
+      "logoDomain": "",
+      "description": "",
+      "responsibilities": [
+        "Built a Python and MCP (Model Context Protocol) automation to keep ServiceNow and Roadmunk in sync, reconciling 281 project and demand records and surfacing 42 hidden data-quality issues distorting executive decisions",
+        "Evaluated four approaches to bring a team's Azure DevOps work into ServiceNow, delivering a decision-ready recommendation and business case that reframed a ~$75K/year licensing decision for leadership",
+        "Turned a static 10-section security playbook into a live, guardrailed Microsoft 365 Copilot AI assistant, shipped org-wide, giving the team instant, cited answers and eliminating manual lookups",
+        "Building RIDAC governance dashboards in ServiceNow Platform Analytics that give leadership real-time visibility into project risk, issue, and adoption metrics across all pillars, driving consistent portfolio governance"
+      ]
+    },
+    {
+      "title": "Senior Project Engineer / Project Lead",
+      "company": "Wipro Technologies",
+      "period": "Nov 2023 - Dec 2024",
+      "location": "",
+      "logoDomain": "",
+      "description": "",
+      "responsibilities": [
+        "Leading Agile delivery for a 6-member cross-functional team, facilitated sprint planning and dependency tracking to achieve 95% on-time completion across all release cycles with zero missed deadlines",
+        "Owning risk and dependency registers and driving escalations with clear impact assessments, reduced escalations 30% and an estimated $120K in annual rework and delivery costs",
+        "As primary liaison across finance, business, and engineering, built Power BI dashboards tracking KPIs, adoption, and delivery health across 1,000+ users, enabling executive data-driven decisions"
+      ]
+    },
+    {
+      "title": "Project Engineer",
+      "company": "Wipro Technologies",
+      "period": "May 2019 - Oct 2023",
+      "location": "",
+      "logoDomain": "",
+      "description": "",
+      "responsibilities": [
+        "Delivered enterprise IT and SAP projects across global sites (US, Germany, India) through the full lifecycle; led requirement analysis and solution design, reducing rework 25% through structured documentation and stakeholder alignment",
+        "Automated validation and release workflows, eliminating 70% of manual effort and improving delivery quality by 67%"
+      ]
+    },
+    {
+      "title": "Software Engineer (SAP ABAP Developer)",
+      "company": "Wipro Technologies",
+      "period": "Nov 2018 - Apr 2019",
+      "location": "",
+      "logoDomain": "",
+      "description": "",
+      "responsibilities": [
+        "Delivered SAP ABAP enhancements (requirements, development, unit testing), building the technical foundation for later end-to-end delivery"
+      ]
+    }
+  ]
+}

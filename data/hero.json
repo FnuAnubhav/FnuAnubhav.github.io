@@ -1,0 +1,53 @@
+{
+  "eyebrow": "// technology professional",
+  "greeting": "Hi, I'm",
+  "name": "ANUBHAV",
+  "surnameGradient": "",
+  "title": "Technology professional",
+  "rotatingSubtitles": [
+    "Technology professional",
+    "Cross-Functional Delivery",
+    "Agile / Scrum"
+  ],
+  "summary": "Technology professional with 6+ years leading cross-functional delivery for global engineering teams (US, Germany, India), skilled in planning, risk and dependency management, stakeholder alignment, and data-driven reporting. Turns ambiguity into structured roadmaps and builds Python, SQL, and Power BI / ServiceNow solutions leadership trusts, delivering 95% on-time execution, 30% fewer escalations, and 70% less manual effort. CAPM (PMI) certified; MS in IT and Management, UT Dallas.",
+  "avatarUrl": "",
+  "openToWork": true,
+  "cta": {
+    "buttons": [
+      {
+        "text": "View work",
+        "href": "#projects",
+        "type": "primary",
+        "external": false,
+        "icon": "fas fa-arrow-right"
+      },
+      {
+        "text": "Get in touch",
+        "href": "#contact",
+        "type": "secondary",
+        "external": false,
+        "icon": "fas fa-paper-plane"
+      },
+      {
+        "text": "Copy email",
+        "href": "#",
+        "type": "ghost",
+        "external": false,
+        "icon": "fas fa-envelope",
+        "action": "copy-email"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "linkedin.com/in/kumanubhav",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:anubhav.fnu@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

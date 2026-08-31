@@ -1,0 +1,40 @@
+{
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "MS in Information Technology and Management",
+      "school": "The University of Texas at Dallas",
+      "institution": "The University of Texas at Dallas",
+      "period": "Dec 2026",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "MTech in Software Engineering",
+      "school": "Birla Institute of Technology and Science (BITS Pilani)",
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "period": "Nov 2022",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CAPM",
+      "issuer": "PMI"
+    },
+    {
+      "name": "Salesforce Certified Administrator",
+      "issuer": "Salesforce"
+    },
+    {
+      "name": "SAP Certified",
+      "issuer": "SAP"
+    },
+    {
+      "name": "PMP (in progress)",
+      "issuer": "PMI"
+    }
+  ]
+}

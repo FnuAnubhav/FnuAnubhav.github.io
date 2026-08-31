@@ -1,0 +1,63 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "SQL",
+        "Python",
+        "SAP ABAP"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "skills": [
+        "Fiori",
+        "HANA"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "skills": [
+        "Power BI",
+        "Excel (Advanced)",
+        "Microsoft 365 Copilot",
+        "MCP",
+        "CI/CD",
+        "REST API",
+        "GraphQL",
+        "ServiceNow (PPM, Platform Analytics)",
+        "Azure DevOps",
+        "Salesforce",
+        "Jira",
+        "Confluence",
+        "MS Project",
+        "Git"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "Cross-Functional Delivery",
+        "Agile / Scrum",
+        "Sprint & Release Planning",
+        "Risk & Dependency Management",
+        "Roadmap & Milestone Planning",
+        "Change Management",
+        "Stakeholder Alignment",
+        "Governance",
+        "Continuous Improvement",
+        "SDLC",
+        "KPI Reporting",
+        "Dashboards",
+        "Process Automation",
+        "System Integration",
+        "Requirements Analysis"
+      ]
+    }
+  ]
+}
